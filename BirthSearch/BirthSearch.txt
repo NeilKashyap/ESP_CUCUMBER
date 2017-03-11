@@ -2,3 +2,13 @@
 
 MAR 5 18:15 , FIRST LINE ADDED to the file.
 
+***********************
+CHANGES MADE TO SPRINT1
+CODE ADDED TO SPRINT1
+function added_in_sprint1()
+{
+	System.out.println("Added in sprint1");
+}
+
+*****************************
+
